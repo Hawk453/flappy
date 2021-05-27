@@ -9,7 +9,7 @@ python3 -m pip install -r requirements.txt
 pip install pygame
 ```
 ```bash
-pip install neat-python.
+pip install neat-python
 ```
 In order to run the game, we need to have pygame and neat-python installed in our pc.
 Once both are installed, the game will run in the game console. <br>
