@@ -2,6 +2,7 @@
 In order to run the game, you need to first download the entire folder in your directory. <br> 
 Once you have downloaded it, click on flap.py on your normal python console. <br>
 ## Requirements
+
 '''bash
 pip install pygame
 '''
